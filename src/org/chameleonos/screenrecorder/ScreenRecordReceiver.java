@@ -48,3 +48,4 @@ public class ScreenRecordReceiver extends BroadcastReceiver {
         }
     }
 }
+
